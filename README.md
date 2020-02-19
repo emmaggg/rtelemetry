@@ -13,7 +13,7 @@ install.packages('devtools')
 devtools::install_github('willcrichton/rtelemetry')
 rtelemetry::install_profile()
 ```
-
+Restart RStudio after installation
 
 ## Usage
 
